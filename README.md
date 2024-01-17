@@ -14,7 +14,7 @@ The sensor device, embedded within a pet collar, uses a **Pulse Sensor** and an 
 
 ## Display Device
 
-<img src="file:///D:/MSTI/TECH%20514%20sofeware%20and%20hardware%20lab/final_project/pics/screen.jpg" title="" alt="" width="292">
+<img src="pics/screen.jpg" title="" alt="" width="292">
 
 The display device is an **LCD screen** equipped with LED indicators. It communicates with the sensor device via Bluetooth, displaying real-time updates of your pet's heart rate and temperature. In case of any abnormalities, the LED lights flash as an alert, allowing for immediate attention and action.
 
